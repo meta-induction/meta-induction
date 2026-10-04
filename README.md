@@ -1,9 +1,9 @@
-# Package name
+# Meta-induction
 <pre>
-  pip install package-name
+  pip install meta-induction
 </pre>
 Then:
 ```Python
   # Python
-  import package_name
+  import meta_induction
 ```
